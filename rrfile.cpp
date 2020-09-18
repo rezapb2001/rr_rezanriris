@@ -8,4 +8,6 @@ main()
 	cout << "Kabar baik, kamu gimana jak?";
 	
 	cout << " Alhamdulillah baik. Akhirnya belajar github nya lancar";
+	
+	cout << " Hai ris reza nambah baris ";
 }

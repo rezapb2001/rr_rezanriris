@@ -14,7 +14,7 @@ main()
 	cout << " Reza nyoba branch ";
 	
 
-	cout << " riris haiiii" ;
+	cout << " ............. " ;
 	
 
 	cout << " Riris juga lagi nyoba branch ";

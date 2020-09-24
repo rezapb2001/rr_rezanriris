@@ -21,6 +21,6 @@ main()
 
 
 	cout << " Reza nyoba branch lagi dong";
-
+	cout << " eror ga jak ? ";
 	cout << " ayo semangat";	
 }

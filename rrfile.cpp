@@ -12,4 +12,6 @@ main()
 	cout << " Hai ris reza nambah baris ";
 	
 	cout << " Reza nyoba branch ";
+	
+	cout << " Riris juga lagi nyoba branch ";
 }

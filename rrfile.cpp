@@ -9,7 +9,7 @@ main()
 	
 	cout << " Alhamdulillah baik. Akhirnya belajar github nya lancar";
 	
-	cout << " Hai ris reza nambah baris ";
+	cout << " pusing ga jak? ";
 	
 	cout << " Reza nyoba branch ";
 	

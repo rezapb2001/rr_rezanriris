@@ -13,7 +13,14 @@ main()
 	
 	cout << " Reza nyoba branch ";
 	
+
 	cout << " riris haiiii" ;
 	
+
+	cout << " Riris juga lagi nyoba branch ";
+
+
 	cout << " Reza nyoba branch lagi dong";
+
+	cout << " ayo semangat";	
 }
